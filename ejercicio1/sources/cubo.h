@@ -1,0 +1,1 @@
+int cubo(int n);
